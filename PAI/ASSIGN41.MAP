@@ -1,0 +1,27 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00164H 00165H _TEXT              CODE
+ 00166H 002AEH 00149H _DATA              DATA
+
+  Address         Publics by Name
+
+ 0000:0160       ALPHA
+ 0000:00BB       COMPARE
+ 0000:007A       CONCAT
+ 0000:006B       DISPLAY1
+ 0016:0006       STR1
+ 0000:00FC       SUBSTRING
+
+  Address         Publics by Value
+
+ 0000:006B       DISPLAY1
+ 0000:007A       CONCAT
+ 0000:00BB       COMPARE
+ 0000:00FC       SUBSTRING
+ 0000:0160       ALPHA
+ 0016:0006       STR1
+
+Program entry point at 0000:0000
+Warning: No stack
+
